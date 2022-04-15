@@ -14,3 +14,14 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.dropdown-menu {
+  height: 100px;
+  overflow-y: scroll;
+}
+
+.dropdown-container {
+  display: flex; 
+  margin: 10px;
+}
+
